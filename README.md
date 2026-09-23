@@ -85,8 +85,6 @@ This project is useful as a starter demo for:
 - electronic nose concepts
 - MEMS/MOS gas sensor array simulations
 - synthetic odor fingerprint classification
-- quick prototyping / vibe-coding experiments
-- beginner GitHub project presentation
 
 ## Limitations
 
