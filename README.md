@@ -78,6 +78,39 @@ flowchart TB
 
 Full reference list: [`docs/REFERENCES.md`](docs/REFERENCES.md).
 
+## What This Project Demonstrates
+
+This project is useful as a starter demo for:
+
+- electronic nose concepts
+- MEMS/MOS gas sensor array simulations
+- synthetic odor fingerprint classification
+- quick prototyping / vibe-coding experiments
+- beginner GitHub project presentation
+
+## Limitations
+
+This is a **toy simulation**, not a real sensor pipeline.
+
+Current limitations:
+
+- uses synthetic data rather than real sensor measurements
+- does not model real sensor drift, humidity effects, or hardware noise in detail
+- classification task is relatively clean and idealized
+- currently implemented as a single script
+
+## Suggested Next Improvements
+
+You could improve the project by adding:
+
+1. real CSV sensor input
+2. train/test split with saved datasets
+3. confusion matrix and per-class accuracy
+4. support for unknown odor classes
+5. CLI arguments
+6. a small web demo with Streamlit
+7. modular code structure such as `src/`, `data/`, and `tests/`
+
 ---
 
 ## Ethics & Limitations
