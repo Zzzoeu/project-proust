@@ -78,7 +78,7 @@ flowchart TB
 
 Full reference list: [`docs/REFERENCES.md`](docs/REFERENCES.md).
 
-## What This Project Demonstrates
+## What This Project Demonstrates （still in progress)
 
 This project is useful as a starter demo for:
 
