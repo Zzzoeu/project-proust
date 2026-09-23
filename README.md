@@ -10,11 +10,11 @@ Exploring smell as the "fifth recordable, replayable memory medium"
 
 ## What problem are we solving?
 
-We've built cameras for what we *see*, and recorders for what we *hear* — but we've never seriously built a device to record and replay what we *smell*, even though scent may be the memory channel with the **highest emotional intensity and the strongest sense of vividness** [doc1][doc2][doc3].
+We've built cameras for what we *see*, and recorders for what we hear — but we've never seriously built a device to record and replay what we smell, even though scent may be the memory channel with the **highest emotional intensity and the strongest sense of vividness** [doc1][doc2][doc3].
 
-The olfactory system is the only sensory pathway that bypasses the thalamus entirely, projecting directly to the amygdala (the emotional center) and the hippocampus (the memory center) [doc1][doc2][doc3]. This explains why smell-triggered memories tend to be **more emotional, more distant in time, and more immersive** than those triggered by visual or auditory cues (the so-called "Proust effect"). At the same time, olfactory decline has been shown to be one of the earliest — yet most overlooked — biomarkers of neurodegenerative diseases like Alzheimer's, appearing years before cognitive symptoms [doc6][doc7][doc8][doc9].
+The olfactory system is the only sensory pathway that bypasses the thalamus entirely, projecting directly to the amygdala (the emotional center) and the hippocampus (the memory center) [doc1][doc2][doc3]. This explains why smell-triggered memories tend to be more emotional, more distant in time, and more immersive than those triggered by visual or auditory cues (the so-called "Proust effect"). At the same time, olfactory decline has been shown to be one of the earliest — yet most overlooked — biomarkers of neurodegenerative diseases like Alzheimer's, appearing years before cognitive symptoms [doc6][doc7][doc8][doc9].
 
-**Our insight**: if we can structurally record "what was smelled, where, and with what emotion/imagery," and later reproduce it precisely, we can turn smell from a fleeting, unstorable sensation into a **storable, searchable, therapeutically useful memory medium**.
+**insight**: if we can structurally record "what was smelled, where, and with what emotion/imagery," and later reproduce it precisely, we can turn smell from a fleeting, unstorable sensation into a storable, searchable, therapeutically useful memory medium.
 
 ---
 
