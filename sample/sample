@@ -1,0 +1,42 @@
+
+{
+  "scent_id": "sc_20260922_2047",
+  "captured_at": "2026-09-22T20:47:06.860778+08:00",
+  "location": {
+    "place_name": "Grandma's Kitchen"
+  },
+  "sensor_fingerprint": {
+    "sensor_model": "SnO2-MEMS-PulseArray-v2 (simulated)",
+    "sensor_type": "MOS_electronic_nose_demo",
+    "raw_response_vector": [
+      1.407,
+      2.062,
+      0.525,
+      3.084,
+      1.926,
+      2.278,
+      -0.186,
+      1.8,
+      2.685,
+      1.785,
+      0.37,
+      2.174
+    ],
+    "classification": {
+      "top_label": "grandmas_braised_pork_soy_aroma",
+      "confidence": 1.0,
+      "candidate_labels": [
+        "grandmas_braised_pork_soy_aroma",
+        "lavender_floral",
+        "petrichor_after_rain"
+      ]
+    }
+  },
+  "context": {
+    "mood_tag": "warm/nostalgic",
+    "free_text": "This is a demo record used to illustrate the .scent file structure."
+  },
+  "usage_stats": {
+    "playback_count": 0
+  }
+}
